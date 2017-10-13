@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\LCawthorne\Downloads\scala\52-technologies\sbt\src\main\scala\TaskManager.scala:3:57: not found: value nil[0m
+[0m[[0m[31merror[0m] [0m[0m  def allTasksDueToday(tasks: List[Task]): List[Task] = nil[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

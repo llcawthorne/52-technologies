@@ -1,0 +1,10 @@
+{
+  "simulation": "loadtests.AccessHomePageSimulation",
+  "simulationId": "accesshomepagesimulation",
+  "start": 1507904470076,
+  "description": "",
+  "scenarios": ["Access Home Page"],
+  "assertions": [
+
+  ]
+}
