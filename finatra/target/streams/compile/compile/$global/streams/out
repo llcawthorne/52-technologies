@@ -1,8 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\LCawthorne\Downloads\scala\52-technologies\finatra\src\main\scala\com\github\llcawthorne\fitman\Weight.scala:6:4: not found: type Size[0m
-[0m[[0m[31merror[0m] [0m[0m  @Size(min = 1, max = 25) user: String,[0m
-[0m[[0m[31merror[0m] [0m[0m   ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\LCawthorne\Downloads\scala\52-technologies\finatra\src\main\scala\com\github\llcawthorne\fitman\Weight.scala:7:4: not enough arguments for constructor Range: (start: Int, end: Int, step: Int)scala.collection.immutable.Range.[0m
-[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter step.[0m
-[0m[[0m[31merror[0m] [0m[0m  @Range(min = 50, max = 450) weight: Int,[0m
-[0m[[0m[31merror[0m] [0m[0m   ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
